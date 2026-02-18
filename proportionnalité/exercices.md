@@ -1,3 +1,5 @@
+## Exercice 1
+
 Corinne n'a pas terminé les représentations
 graphiques de situations de proportionnalité
 Elle a commencé les graphiques ci-dessous. Aide-la à terminer son travail.
@@ -40,3 +42,17 @@ Points supplémentaires
 En traçant la droite passant par ces points, Corinne aura un graphique complet de proportionnalité. Chaque point sur cette droite respecte la relation \( y = 0.8x \).
 
 Si tu veux, je peux générer une image du graphique complété pour t'aider visuellement. Fais-moi signe !
+
+## Exercice 2 (Appliquer la règle de la 4eme proportionnelle)
+Chez l’épicier, 2,5 kg de pommes coûtent 4€.
+Combien coûtent 1,8 kg de pommes ?
+
+* Rappel : commence par tracer un tableau proprement.
+Utlitilise la méthode de la quatrième proportionnelle. Cette méthode est une conséquence de la méthode du produit en croix et elle permet bien de calculer une quatrième valeur dans un tableau de proportionnalité connaissant trois autres.
+Ce n'est pas mentionné mais le prix est proportionnel à la quantité de pommes achetée.
+
+
+
+| Prix(€)            |       4      |       ?      |
+|--------------------|--------------|--------------|
+| Poids(€kg)         |       2,5    |      1,8     |
