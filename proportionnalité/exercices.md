@@ -52,7 +52,18 @@ Utlitilise la méthode de la quatrième proportionnelle. Cette méthode est une 
 Ce n'est pas mentionné mais le prix est proportionnel à la quantité de pommes achetée.
 
 
-
 | Prix(€)            |       4      |       ?      |
 |--------------------|--------------|--------------|
 | Poids(€kg)         |       2,5    |      1,8     |
+
+## Exercice 3
+Un bouquet de 5 jonquilles coûte 4,50€.
+Quel est le prix d’un bouquet de sept jonquilles ?
+
+## Exercice 4
+Dans un immeuble, les charges payées sont proportionnelles à la surface au sol de la propriété pour
+chacun des propriétaires. Trouver la valeur de x, y et de z du tableau des charges de quelques propriétaires. 
+
+| Surface au sol en m²    |       x      |     61,2     |       y      |     72,9     |
+|-------------------------|--------------|--------------|--------------|--------------|
+| Montant des charges (€) |     82,32    |     171,36   |     189,00.  |      z.      |
