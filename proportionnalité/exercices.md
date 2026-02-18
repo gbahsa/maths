@@ -66,4 +66,4 @@ chacun des propriétaires. Trouver la valeur de x, y et de z du tableau des char
 
 | Surface au sol en m²    |       x      |     61,2     |       y      |     72,9     |
 |-------------------------|--------------|--------------|--------------|--------------|
-| Montant des charges (€) |     82,32    |     171,36   |     189,00.  |      z.      |
+| Montant des charges (€) |     82,32    |     171,36   |     189,00.  |      z       |
